@@ -1,0 +1,10 @@
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.Model\bin\Debug\netstandard2.0\mldemo_issue_ClassificationML.Model.deps.json
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.Model\bin\Debug\netstandard2.0\mldemo_issue_ClassificationML.Model.dll
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.Model\bin\Debug\netstandard2.0\mldemo_issue_ClassificationML.Model.pdb
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.Model\obj\Debug\netstandard2.0\mldemo_issue_ClassificationML.Model.csprojAssemblyReference.cache
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.Model\obj\Debug\netstandard2.0\mldemo_issue_ClassificationML.Model.csproj.CoreCompileInputs.cache
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.Model\obj\Debug\netstandard2.0\mldemo_issue_ClassificationML.Model.AssemblyInfoInputs.cache
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.Model\obj\Debug\netstandard2.0\mldemo_issue_ClassificationML.Model.AssemblyInfo.cs
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.Model\obj\Debug\netstandard2.0\mldemo_issue_ClassificationML.Model.dll
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.Model\obj\Debug\netstandard2.0\mldemo_issue_ClassificationML.Model.pdb

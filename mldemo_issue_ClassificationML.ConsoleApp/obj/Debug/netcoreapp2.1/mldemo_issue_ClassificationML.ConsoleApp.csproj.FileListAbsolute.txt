@@ -1,0 +1,16 @@
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\bin\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.deps.json
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\bin\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.runtimeconfig.json
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\bin\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\bin\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.dll
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\bin\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.pdb
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\bin\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.Model.dll
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\bin\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.Model.pdb
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\obj\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\obj\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\obj\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\obj\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.AssemblyInfo.cs
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\obj\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.csproj.CopyComplete
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\obj\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.dll
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\obj\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.pdb
+C:\Users\vino\Source\Repos\mldemo_issue_Classification\mldemo_issue_ClassificationML.ConsoleApp\obj\Debug\netcoreapp2.1\mldemo_issue_ClassificationML.ConsoleApp.genruntimeconfig.cache
